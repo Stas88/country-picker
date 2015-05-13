@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CountriesListExampl</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="your_phone_country_hint">Your country</string>
+    <string name="your_phone_phone_hint">Your phone number</string>
+    <string name="title">Pick the country</string>
+</resources>

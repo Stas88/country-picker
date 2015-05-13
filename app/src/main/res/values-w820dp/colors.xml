@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#63c727</color>
+    <color name="colorPrimaryDark">#53b618</color>
+    <color name="colorAccent">#b4b4b4</color>
+    <color name="colorControlHighlight">#e3ffcb</color>
+
+
+    <color name="tab_bg_color">#ffffffff</color>
+    <color name="inplay_green">#63c727</color>
+    <color name="action_bar_selected">#9663C727</color>
+    <color name="shearch_image_progress">#50929292</color>
+    <color name="tool_bar_with_overlay">#295210</color>
+    <color name="light_gray">#ffeeeeee</color>
+    <color name="text_light_gray">#ff929292</color>
+    <color name="text_hint_primary">#ffc7c7c7</color>
+    <color name="text_primary">#ff343434</color>
+    <color name="divider_primary">#ffdddddd</color>
+    <color name="divider_darker">#ffdedede</color>
+    <color name="background_primary">#eeeeee</color>
+    <color name="link_primary">#ff007aff</color>
+    <color name="text_white">#ffffffff</color>
+    <color name="text_black">#ff000000</color>
+    <color name="divider_listview">#ffdddddd</color>
+    <color name="background_image">#ffdddddd</color>
+    <color name="text_facebook">#ff3b5998</color>
+    <color name="transparent">#00000000</color>
+    <color name="inplay_red">#fd472b</color>
+    <color name="hotwire_browser_progress">#aa63c727</color>
+    <color name="hotwire_channel_lobby_header_text">#929292</color>
+    <color name="hotwire_item_header_divider_color">#dddddd</color>
+    <color name="hotwire_item_text_color">#343434</color>
+    <color name="channels_item_subscribe_cover">#C0ffffff</color>
+    <color name="pass_title_text_color">#ffffffff</color>
+    <color name="hotwire_item_date_text_color">#c7c7c7</color>
+    <color name="hotwire_item_duration_text_color">#929292</color>
+    <color name="hotwire_item_twitter_name_text_color">#929292</color>
+    <color name="background_white">#ffffffff</color>
+    <color name="background_gray_c7">#ffc7c7c7</color>
+    <color name="background_gray_f7">#fff7f7f7</color>
+    <color name="divider_primary_list">#ffdddddd</color>
+    <color name="background_home">#ffeeeeee</color>
+    <color name="default_sticker">#ffc7c7c7</color>
+    <color name="default_hotwire">#ffdddddd</color>
+    <color name="default_discover">#ffdddddd</color>
+    <color name="default_chat">#ffdddddd</color>
+    <color name="list_item_primary">#ffffffff</color>
+    <color name="list_item_primary_selected">#ff63c727</color>
+    <color name="dialog_activity_background">#96000000</color>
+    <color name="alert_dialog_button_text">#ff007aff</color>
+    <color name="alert_dialog_message_text">#777777</color>
+    <color name="alert_dialog_title_text">#343434</color>
+
+    <!-- signup -->
+    <color name="my_country_dial_code_selected">#ff63c727</color>
+    <color name="my_country_dial_code">#ff929292</color>
+
+    <!-- chat -->
+    <color name="chat_item_notification_text">#777777</color>
+    <color name="chat_item_notification_invite_again">#007aff</color>
+    <color name="chat_item_social_feed_text">#9e4878</color>
+    <color name="chat_item_social_header_background">#F7F7F7</color>
+    <color name="chat_item_social_border">#dddddd</color>
+    <color name="incoming_sticker_background_color">@color/background_white</color>
+    <color name="outgoing_sticker_background_color">@color/background_white</color>
+    <color name="chat_info_pending_requests_active">#ff63c727</color>
+    <color name="chat_info_pending_requests_inactive">#ffdedede</color>
+    <color name="sticker_default_bg">#ff999999</color>
+    <color name="pending_full_bg">#56aa1c</color>
+    <color name="toolmenu_coming_soon">#ffe6e6e6</color>
+
+    <!-- welcome -->
+    <color name="welcome_snippet_text">#ff969ea4</color>
+    <color name="welcome_title_text">#ff343434</color>
+    <color name="welcome_bottom_field_background">#ffffffff</color>
+
+    <!-- conversation list -->
+    <color name="conversation_time_text">#ffc7c7c7</color>
+    <color name="conversation_item_snippet">#ff777777</color>
+    <color name="conversation_snippet_or_content_type">#929292</color>
+    <color name="message_list_compose_hold_normal">#969ea4</color>
+    <color name="message_list_compose_hold_pressed">#b5bbbf</color>
+    <color name="message_list_compose_hold_text">#ffffff</color>
+    <color name="message_list_compose_hold_text_pressed">#cdd1d4</color>
+
+    <!-- fullscreen -->
+    <color name="fullscreen_background">#ff000000</color>
+    <color name="black_overlay">#66000000</color>
+
+    <!-- coach -->
+    <color name="coach_marker_overlay">#d9000000</color>
+
+    <!-- contact item -->
+    <color name="contact_item_subtitle">#929292</color>
+    <color name="contact_item_title">#343434</color>
+
+    <!-- discover -->
+    <color name="discover_view_all_color">#007AFF</color>
+    <color name="discover_title_color">#343434</color>
+    <color name="discover_subtitle_color">#929292</color>
+    <color name="discover_join_color">#63C727</color>
+    <color name="discover_joined_background">#9663C727</color>
+    <color name="discover_members_count_color">#929292</color>
+    <color name="discover_search_hint_color">#125f31</color>
+
+
+    <!-- stickers -->
+    <color name="sticker_package_tab_background">#00000000</color>
+    <color name="sticker_package_tab_background_selected">#ffffffff</color>
+    <color name="sticker_package_tab_border">#ffc7c7c7</color>
+    <color name="sticker_package_tabbar_background">#fff7f7f7</color>
+    <color name="sticker_package_tabbar_border">#ffc7c7c7</color>
+
+    <color name="holo_blue_light">#ff33b5e5</color>
+
+    <!-- pass dialog -->
+    <color name="pass_dialog_selector_color">#63c727</color>
+
+    <!-- contact details -->
+    <color name="details_contact_name">#343434</color>
+    <color name="details_contact_name_selected">#ffffff</color>
+    <color name="details_contact_separator">#dddddd</color>
+    <color name="details_last_seen">#c7c7c7</color>
+    <color name="details_team_name">#929292</color>
+    <color name="selected_background">#e3ffcb</color>
+    <color name="selected_background_dark">#9663C727</color>
+
+
+    <color name="message_item_text_name_0">#2984a5</color>
+    <color name="message_item_text_name_1">#cabf07</color>
+    <color name="message_item_text_name_2">#07ca95</color>
+    <color name="message_item_text_name_3">#e7ae13</color>
+    <color name="message_item_text_name_4">#294ca5</color>
+    <color name="message_item_text_name_5">#c27130</color>
+    <color name="message_item_text_name_6">#c34d4a</color>
+    <color name="message_item_text_name_7">#30a5c2</color>
+    <color name="message_item_text_name_8">#e76954</color>
+    <color name="message_item_text_name_9">#688796</color>
+
+    <!-- onboarding -->
+    <color name="onboarding_message_background">#eaeaea</color>
+    <color name="onboarding_invite_friends_bckg">#dbdbdb</color>
+    <color name="onboarding_text_color">#5f5f5f</color>
+    <color name="onboarding_text_blue">#1768ff</color>
+
+    <!-- empty view -->
+    <color name="empty_view_retry_color">#1768ff</color>
+
+    <!-- connection -->
+    <color name="connecting_status_color">#56aa1c</color>
+    <color name="error_status_color">#fd472b</color>
+
+    <!-- fan club welcome-->
+    <color name="welcome_fan_club_bckg">#dbdbdb</color>
+    <color name="welcome_fan_club_title_color">#c7c7c7</color>
+    <color name="welcome_fan_club_text_color">#343434</color>
+    <color name="welcome_fan_club_header_text_color">#777777</color>
+    <color name="group_info_primary">#929292</color>
+
+    <!-- invitation dialog-->
+    <color name="invitation_nope_text_color">#969ea4</color>
+    <color name="invitation_enter_code_text_color">#ffffff</color>
+
+    <color name="context_menu_blue_text">#007AFF</color>
+    <color name="context_menu_red_text">#FD472B</color>
+
+    <color name="text_description_primary">#929292</color>
+
+    <!-- Search image dialog -->
+    <color name="search_image_preview_text_description">#868686</color>
+
+
+</resources>
